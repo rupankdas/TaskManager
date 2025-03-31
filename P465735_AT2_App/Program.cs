@@ -63,7 +63,7 @@ namespace P465735_AT2_App
                         break;
                     default:
                         Console.Clear();
-                        Console.WriteLine("Invalid option. Please try again.");
+                        Console.WriteLine("Invalid option. Please review and try again.");
                         Pause();
                         break;
                 } // end switch
